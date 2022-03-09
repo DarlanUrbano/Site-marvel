@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+aside>h1{
+    color:rgb(0, 0, 0);
+    background-color: #03009b;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: -10px,-10px,0,-10px;
+}
+aside> h2{
+    color: white;
+    background-color: #c90000;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: -100px,-10px, 0px ,-10px;
+}
+aside{
+    width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: rgb(253, 253, 255);
+        padding: 25px;
+        border-radius: 15px;
+        opacity:85%;
+}
+
+footer{
+    text-align: center;
+}
